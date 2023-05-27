@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorge-pinto-g95&label=Profile%20views&color=0e75b6&style=flat" alt="jorge-pinto-g95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorge-pinto-g95" alt="jorge-pinto-g95" /></a> </p>
-
+ <img src="https://media.discordapp.net/attachments/1095104267318214797/1109096606919311370/challenge_1.png" alt="jorge-pinto-g95" width="20%"  height = "20%"/>
 - 📫 How to reach me **V2W | -kzNNNN; ™#9989**
 
 <h3 align="left">Connect with me:</h3>
